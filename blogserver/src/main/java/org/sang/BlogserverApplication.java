@@ -9,6 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class BlogserverApplication {
 
     public static void main(String[] args) {
+    	System.out.println("111");
         SpringApplication.run(BlogserverApplication.class, args);
     }
 }
