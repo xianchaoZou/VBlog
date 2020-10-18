@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
-@EnableScheduling//开启定时任务支持12222
+@EnableScheduling//开启定时任务支持122223
 public class BlogserverApplication {
 
     public static void main(String[] args) {
